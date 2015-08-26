@@ -13,8 +13,9 @@
  */
 int main(int argc, char** argv) {
 
-    char a = 95;
-    printf("%c", a);
+    int a = 4;
+    printf("%i", a);
+    
     return (EXIT_SUCCESS);
 }
 
