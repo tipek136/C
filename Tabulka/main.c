@@ -2,7 +2,7 @@
  * File:   main.c
  * Author: Tomáš
  *
- * Created on 26. srpna 2015, 13:01
+ * Created on 26. srpna 2015, 15:07
  */
 
 #include <stdio.h>
@@ -13,8 +13,6 @@
  */
 int main(int argc, char** argv) {
 
-    char a = 95;
-    printf("%c", a);
     return (EXIT_SUCCESS);
 }
 
